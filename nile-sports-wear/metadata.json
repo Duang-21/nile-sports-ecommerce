@@ -1,0 +1,6 @@
+{
+  "name": "Nile Sports Wear",
+  "description": "An elegant, high-performance sportswear boutique featuring responsive online checkout, dynamic category grids, and verified customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
